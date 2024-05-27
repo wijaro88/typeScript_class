@@ -1,4 +1,3 @@
-"use strict";
 // Enum
 var Roles;
 (function (Roles) {
